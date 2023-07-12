@@ -16,12 +16,9 @@ print("'''\nCreated Date: Saturday, April 15th 2023, 8:15:38 pm\nProgram Name: i
 print("   Hoş geldiniz.\n")
 
 while True:
-    print("\033[32m")
-    print("   [1] Veri indirme.")
+    print("\n   [1] Veri indirme.")
     print("   [2] Veri karşılaştırma.")
-    print("\033[31m", end="")
     print("   [3] Çıkış.")
-    print("\033[37m")
     
     key = int(input("\n   Yapmak istediğiniz işlemi seçin: "))
 
@@ -111,26 +108,14 @@ while True:
                     if price_changes_low != 0:
                         price_changes.append(price_changes_low)
                         print("\nÜrün:", products[index])
-                        
-                        if price_changes_low < 0:
-                            print("\033[91m", end=" ")
-                        else:
-                            print("\033[92m", end=" ")
-
                         print("Düşük fiyat farkı:", price_changes_low)
-                        print("\033[0m")
+                        print("\n")
 
                     if price_changes_high != 0:
                         price_changes.append(price_changes_high)
                         print("\nÜrün:", products[index])
-
-                        if price_changes_high < 0:
-                            print("\033[91m", end=" ")
-                        else:
-                            print("\033[92m", end=" ")
-
                         print("Yüksek fiyat farkı:", price_changes_high)
-                        print("\033[0m")
+                        print("\n")
 
                 else:
                     low_prices = float(row[2].replace(" TL", "").replace(",", "."))
@@ -146,21 +131,9 @@ while True:
                     price_changes.append(price_changes_high)
 
                     print("\nÜrün:", product_name)
-
-                    if price_changes_low < 0:
-                        print("\033[91m", end=" ")
-                    else:
-                        print("\033[92m", end=" ")
-
                     print("Düşük fiyat farkı:", price_changes_low)
-                    print("\033[0m")
-
-                    if price_changes_high < 0:
-                        print("\033[91m", end=" ")
-                    else:
-                        print("\033[92m", end=" ")
-
+                    print("\n")
                     print("Yüksek fiyat farkı:", price_changes_high)
-                    print("\033[0m")
+                    print("\n")
     elif key == 3:
         exit()
