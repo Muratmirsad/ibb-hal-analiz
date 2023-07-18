@@ -1,6 +1,6 @@
 '''
 Created Date: Saturday, April 15th 2023, 8:15:38 pm
-Program Name: ibb-hal-analiz.py
+Program Name: ibb-hal-analiz-powershell.py
 Author: Murat Mirsad Dırağa
 
             github.com/muratmirsad
