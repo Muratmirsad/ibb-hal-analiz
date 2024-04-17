@@ -1,0 +1,132 @@
+2024-04-17.csv - 2024-3-13.csv
+
+Fiyat değişimleri
+
+Ürün: Armut (Deveci)
+Düşük fiyat farkı: -5.0
+
+Ürün: Armut (Deveci)
+Yüksek fiyat farkı: -5.0
+
+Ürün: Armut (Santamaria)
+Düşük fiyat farkı: -10.0
+
+Ürün: Avakado
+Yüksek fiyat farkı: -5.0
+
+Ürün: Ãilek II.
+Düşük fiyat farkı: 15.0
+
+Ürün: Ãilek II.
+Yüksek fiyat farkı: 25.0
+
+Ürün: Ãilek(I.)
+Düşük fiyat farkı: 30.0
+
+Ürün: Ãilek(I.)
+Yüksek fiyat farkı: 30.0
+
+Ürün: Erik (Can)
+Düşük fiyat farkı: -185.0
+
+Ürün: Erik (Can)
+Yüksek fiyat farkı: -275.0
+
+Ürün: Erik (Malta)
+Yüksek fiyat farkı: -5.0
+
+Ürün: Greyfurt
+Düşük fiyat farkı: 15.0
+
+Ürün: Greyfurt
+Yüksek fiyat farkı: 15.0
+
+Ürün: Karpuz (1.Kalite)
+Düşük fiyat farkı: 30.0
+
+Ürün: Karpuz (1.Kalite)
+Yüksek fiyat farkı: 50.0
+
+Ürün: Kavun
+Düşük fiyat farkı: 10.0
+
+Ürün: Kavun
+Yüksek fiyat farkı: -10.0
+
+Ürün: KayÄ±sÄ± I.
+Düşük fiyat farkı: 50.0
+
+Ürün: KayÄ±sÄ± I.
+Yüksek fiyat farkı: 140.0
+
+Ürün: Kivi (Yerli)
+Düşük fiyat farkı: -5.0
+
+Ürün: Kivi (Yerli)
+Yüksek fiyat farkı: -5.0
+
+Ürün: Limon
+Düşük fiyat farkı: -10.0
+
+Ürün: Limon
+Yüksek fiyat farkı: -9.0
+
+Ürün: Limon (ÃÄ±kma)
+Düşük fiyat farkı: -5.0
+
+Ürün: Limon (ÃÄ±kma)
+Yüksek fiyat farkı: -8.0
+
+Ürün: Limon (Lamas)
+Düşük fiyat farkı: -8.0
+
+Ürün: Limon (Lamas)
+Yüksek fiyat farkı: -15.0
+
+Ürün: Mandalina
+Düşük fiyat farkı: -20.0
+
+Ürün: Mandalina
+Yüksek fiyat farkı: -42.0
+
+Ürün: Mandalina (2.kalite)
+Düşük fiyat farkı: -12.0
+
+Ürün: Mandalina (2.kalite)
+Yüksek fiyat farkı: -9.0
+
+Ürün: Muz (Yerli)
+Düşük fiyat farkı: -35.0
+
+Ürün: Muz (Yerli)
+Yüksek fiyat farkı: -35.0
+
+Ürün: Muz(Yerli II.)
+Düşük fiyat farkı: -17.0
+
+Ürün: Muz(Yerli II.)
+Yüksek fiyat farkı: -25.0
+
+Ürün: Nar
+Düşük fiyat farkı: -5.0
+
+Ürün: Nar
+Yüksek fiyat farkı: -18.0
+
+Ürün: Portakal
+Düşük fiyat farkı: 15.0
+
+Ürün: Portakal
+Yüksek fiyat farkı: 15.0
+
+Ürün: Portakal (SÄ±kmalÄ±k)
+Düşük fiyat farkı: 5.0
+
+Ürün: Portakal (SÄ±kmalÄ±k)
+Yüksek fiyat farkı: 5.0
+
+Ürün: Portakal (WaÅington)
+Düşük fiyat farkı: 10.0
+
+Ürün: Portakal (WaÅington)
+Yüksek fiyat farkı: 15.0
