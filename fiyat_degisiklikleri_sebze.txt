@@ -1,0 +1,549 @@
+2024-04-17_sebze.csv - 2024-03-14_sebze.csv
+
+Fiyat değişimleri
+
+Ürün: Armut (Deveci)
+Düşük fiyat farkı: -5.0
+
+Ürün: Armut (Deveci)
+Yüksek fiyat farkı: -5.0
+
+Ürün: Armut (Santamaria)
+Düşük fiyat farkı: -10.0
+
+Ürün: Avakado
+Yüksek fiyat farkı: -5.0
+
+Ürün: Ãilek II.
+Düşük fiyat farkı: 15.0
+
+Ürün: Ãilek II.
+Yüksek fiyat farkı: 25.0
+
+Ürün: Ãilek(I.)
+Düşük fiyat farkı: 30.0
+
+Ürün: Ãilek(I.)
+Yüksek fiyat farkı: 30.0
+
+Ürün: Erik (Can)
+Düşük fiyat farkı: -185.0
+
+Ürün: Erik (Can)
+Yüksek fiyat farkı: -275.0
+
+Ürün: Erik (Malta)
+Yüksek fiyat farkı: -5.0
+
+Ürün: Greyfurt
+Düşük fiyat farkı: 15.0
+
+Ürün: Greyfurt
+Yüksek fiyat farkı: 15.0
+
+Ürün: Karpuz (1.Kalite)
+Düşük fiyat farkı: 30.0
+
+Ürün: Karpuz (1.Kalite)
+Yüksek fiyat farkı: 50.0
+
+Ürün: Kavun
+Düşük fiyat farkı: 10.0
+
+Ürün: Kavun
+Yüksek fiyat farkı: -10.0
+
+Ürün: KayÄ±sÄ± I.
+Düşük fiyat farkı: 50.0
+
+Ürün: KayÄ±sÄ± I.
+Yüksek fiyat farkı: 140.0
+
+Ürün: Kivi (Yerli)
+Düşük fiyat farkı: -5.0
+
+Ürün: Kivi (Yerli)
+Yüksek fiyat farkı: -5.0
+
+Ürün: Limon
+Düşük fiyat farkı: -10.0
+
+Ürün: Limon
+Yüksek fiyat farkı: -9.0
+
+Ürün: Limon (ÃÄ±kma)
+Düşük fiyat farkı: -5.0
+
+Ürün: Limon (ÃÄ±kma)
+Yüksek fiyat farkı: -8.0
+
+Ürün: Limon (Lamas)
+Düşük fiyat farkı: -8.0
+
+Ürün: Limon (Lamas)
+Yüksek fiyat farkı: -15.0
+
+Ürün: Mandalina
+Düşük fiyat farkı: -20.0
+
+Ürün: Mandalina
+Yüksek fiyat farkı: -42.0
+
+Ürün: Mandalina (2.kalite)
+Düşük fiyat farkı: -12.0
+
+Ürün: Mandalina (2.kalite)
+Yüksek fiyat farkı: -9.0
+
+Ürün: Muz (Yerli)
+Düşük fiyat farkı: -35.0
+
+Ürün: Muz (Yerli)
+Yüksek fiyat farkı: -35.0
+
+Ürün: Muz(Yerli II.)
+Düşük fiyat farkı: -17.0
+
+Ürün: Muz(Yerli II.)
+Yüksek fiyat farkı: -25.0
+
+Ürün: Nar
+Düşük fiyat farkı: -5.0
+
+Ürün: Nar
+Yüksek fiyat farkı: -18.0
+
+Ürün: Portakal
+Düşük fiyat farkı: 15.0
+
+Ürün: Portakal
+Yüksek fiyat farkı: 15.0
+
+Ürün: Portakal (SÄ±kmalÄ±k)
+Düşük fiyat farkı: 5.0
+
+Ürün: Portakal (SÄ±kmalÄ±k)
+Yüksek fiyat farkı: 5.0
+
+Ürün: Portakal (WaÅington)
+Düşük fiyat farkı: 10.0
+
+Ürün: Portakal (WaÅington)
+Yüksek fiyat farkı: 15.0
+
+Ürün: Armut
+Düşük fiyat farkı: -30.0
+
+Ürün: Armut
+Yüksek fiyat farkı: -40.0
+
+Ürün: Armut (Ankara)
+Düşük fiyat farkı: -10.0
+
+Ürün: Armut (Ankara)
+Yüksek fiyat farkı: -25.0
+
+Ürün: Armut (Deveci)
+Düşük fiyat farkı: -35.0
+
+Ürün: Armut (Deveci)
+Yüksek fiyat farkı: -45.0
+
+Ürün: Armut (Santamaria)
+Düşük fiyat farkı: -5.0
+
+Ürün: Armut (Santamaria)
+Yüksek fiyat farkı: -5.0
+
+Ürün: Avakado
+Düşük fiyat farkı: 25.0
+
+Ürün: Avakado
+Yüksek fiyat farkı: 35.0
+
+Ürün: Ayva
+Yüksek fiyat farkı: 5.0
+
+Ürün: Ayva ( Ä°kinci )
+Düşük fiyat farkı: 10.0
+
+Ürün: Ayva ( Ä°kinci )
+Yüksek fiyat farkı: 5.0
+
+Ürün: Ãilek II.
+Yüksek fiyat farkı: 10.0
+
+Ürün: Ãilek(I.)
+Yüksek fiyat farkı: 5.0
+
+Ürün: Elma (Amasya)
+Düşük fiyat farkı: -50.0
+
+Ürün: Elma (Amasya)
+Yüksek fiyat farkı: -50.0
+
+Ürün: Elma (Bodur)
+Düşük fiyat farkı: 20.0
+
+Ürün: Elma (Bodur)
+Yüksek fiyat farkı: 20.0
+
+Ürün: Elma (Golden)
+Düşük fiyat farkı: 30.0
+
+Ürün: Elma (Golden)
+Yüksek fiyat farkı: 35.0
+
+Ürün: Elma (Gransimit)
+Düşük fiyat farkı: 25.0
+
+Ürün: Elma (Gransimit)
+Yüksek fiyat farkı: 15.0
+
+Ürün: Elma (Starkin)
+Düşük fiyat farkı: -60.0
+
+Ürün: Elma (Starkin)
+Yüksek fiyat farkı: -60.0
+
+Ürün: Elma(gransimit)II.
+Düşük fiyat farkı: 72.0
+
+Ürün: Elma(gransimit)II.
+Yüksek fiyat farkı: 90.0
+
+Ürün: Elma(starkin)II.
+Düşük fiyat farkı: 15.0
+
+Ürün: Elma(starkin)II.
+Yüksek fiyat farkı: 28.0
+
+Ürün: Erik (Anjelik)
+Düşük fiyat farkı: -22.0
+
+Ürün: Erik (Anjelik)
+Yüksek fiyat farkı: -30.0
+
+Ürün: Greyfurt
+Düşük fiyat farkı: -45.0
+
+Ürün: Greyfurt
+Yüksek fiyat farkı: -63.0
+
+Ürün: Hurma
+Düşük fiyat farkı: -75.0
+
+Ürün: Hurma
+Yüksek fiyat farkı: -105.0
+
+Ürün: Karpuz (1.Kalite)
+Düşük fiyat farkı: 30.0
+
+Ürün: Karpuz (1.Kalite)
+Yüksek fiyat farkı: 35.0
+
+Ürün: Kavun
+Düşük fiyat farkı: 35.0
+
+Ürün: Kavun
+Yüksek fiyat farkı: 30.0
+
+Ürün: KayÄ±sÄ± I.
+Düşük fiyat farkı: -20.0
+
+Ürün: KayÄ±sÄ± I.
+Yüksek fiyat farkı: -30.0
+
+Ürün: Kestane
+Düşük fiyat farkı: 15.0
+
+Ürün: Kestane
+Yüksek fiyat farkı: 20.0
+
+Ürün: Kivi (Yerli)
+Düşük fiyat farkı: 30.0
+
+Ürün: Kivi (Yerli)
+Yüksek fiyat farkı: 45.0
+
+Ürün: Limon
+Düşük fiyat farkı: -20.0
+
+Ürün: Limon
+Yüksek fiyat farkı: -30.0
+
+Ürün: Limon (ÃÄ±kma)
+Düşük fiyat farkı: -10.0
+
+Ürün: Limon (ÃÄ±kma)
+Yüksek fiyat farkı: -25.0
+
+Ürün: Limon (Enter)
+Düşük fiyat farkı: 75.0
+
+Ürün: Limon (Enter)
+Yüksek fiyat farkı: 120.0
+
+Ürün: Limon (Lamas)
+Düşük fiyat farkı: 40.0
+
+Ürün: Limon (Lamas)
+Yüksek fiyat farkı: 45.0
+
+Ürün: Limon (Mayer)
+Yüksek fiyat farkı: -5.0
+
+Ürün: Mandalina
+Düşük fiyat farkı: -5.0
+
+Ürün: Mandalina
+Yüksek fiyat farkı: -10.0
+
+Ürün: Mandalina (2.kalite)
+Düşük fiyat farkı: 1.0
+
+Ürün: Mandalina (2.kalite)
+Yüksek fiyat farkı: -7.0
+
+Ürün: Mandalina (Ä°zmir)
+Düşük fiyat farkı: 3.0
+
+Ürün: Mandalina (Ä°zmir)
+Yüksek fiyat farkı: 3.0
+
+Ürün: Muz (Yerli)
+Düşük fiyat farkı: -1.0
+
+Ürün: Muz(Yerli II.)
+Düşük fiyat farkı: 3.0
+
+Ürün: Muz(Yerli II.)
+Yüksek fiyat farkı: -8.0
+
+Ürün: Nar
+Düşük fiyat farkı: -12.0
+
+Ürün: Nar
+Yüksek fiyat farkı: -20.0
+
+Ürün: Portakal
+Düşük fiyat farkı: -5.0
+
+Ürün: Portakal
+Yüksek fiyat farkı: 5.0
+
+Ürün: Portakal (SÄ±kmalÄ±k)
+Düşük fiyat farkı: 10.0
+
+Ürün: Portakal (SÄ±kmalÄ±k)
+Yüksek fiyat farkı: 20.0
+
+Ürün: Portakal (WaÅington)
+Yüksek fiyat farkı: 2.0
+
+Ürün: Bezelye
+Düşük fiyat farkı: 10.0
+
+Ürün: Bezelye
+Yüksek fiyat farkı: 8.0
+
+Ürün: Biber (Capya) Tarla
+Düşük fiyat farkı: -3.0
+
+Ürün: Biber (Capya) Tarla
+Yüksek fiyat farkı: -2.0
+
+Ürün: Biber (Ãarli)
+Düşük fiyat farkı: -15.0
+
+Ürün: Biber (Ãarli)
+Yüksek fiyat farkı: -15.0
+
+Ürün: Biber (Ãarli)Ä°kinci
+Düşük fiyat farkı: -9.0
+
+Ürün: Biber (Ãarli)Ä°kinci
+Yüksek fiyat farkı: -10.0
+
+Ürün: Biber (Dolma)
+Düşük fiyat farkı: 17.0
+
+Ürün: Biber (Dolma)
+Yüksek fiyat farkı: 25.0
+
+Ürün: Biber (Dolma)Ä°kinci
+Düşük fiyat farkı: -40.0
+
+Ürün: Biber (Dolma)Ä°kinci
+Yüksek fiyat farkı: -50.0
+
+Ürün: Biber (KÃ¶y)
+Düşük fiyat farkı: -12.0
+
+Ürün: Biber (KÃ¶y)
+Yüksek fiyat farkı: -15.0
+
+Ürün: Biber (Renkli)
+Düşük fiyat farkı: 35.0
+
+Ürün: Biber (Renkli)
+Yüksek fiyat farkı: 50.0
+
+Ürün: Biber (Sivri)
+Düşük fiyat farkı: 10.0
+
+Ürün: Biber (Sivri)
+Yüksek fiyat farkı: 13.0
+
+Ürün: Biber (Sivri)Ä°kinci
+Düşük fiyat farkı: 7.0
+
+Ürün: Biber (Sivri)Ä°kinci
+Yüksek fiyat farkı: 11.0
+
+Ürün: Biber KÃ¶y II.
+Düşük fiyat farkı: 1.0
+
+Ürün: Biber(Sivri KÄ±l)
+Düşük fiyat farkı: -3.0
+
+Ürün: Biber(Sivri KÄ±l)
+Yüksek fiyat farkı: -4.0
+
+Ürün: Brokoli
+Yüksek fiyat farkı: 3.0
+
+Ürün: Dereotu II.
+Düşük fiyat farkı: -13.0
+
+Ürün: Dereotu II.
+Yüksek fiyat farkı: -17.0
+
+Ürün: Domates
+Düşük fiyat farkı: -2.0
+
+Ürün: Domates
+Yüksek fiyat farkı: -5.0
+
+Ürün: Domates ( Beef)
+Düşük fiyat farkı: -5.0
+
+Ürün: Domates ( Beef)
+Yüksek fiyat farkı: -1.0
+
+Ürün: Domates (Ä°kinci kalite)
+Düşük fiyat farkı: 3.0
+
+Ürün: Domates (Ä°kinci kalite)
+Yüksek fiyat farkı: 1.0
+
+Ürün: Domates (Pembe)
+Düşük fiyat farkı: 20.0
+
+Ürün: Domates (Pembe)
+Yüksek fiyat farkı: 27.0
+
+Ürün: Domates (SalkÄ±m)
+Düşük fiyat farkı: 20.0
+
+Ürün: Domates (SalkÄ±m)
+Yüksek fiyat farkı: 25.0
+
+Ürün: Enginar
+Düşük fiyat farkı: 2.0
+
+Ürün: Enginar
+Yüksek fiyat farkı: 5.0
+
+Ürün: FasÃ¼lye (ÃalÄ±)
+Düşük fiyat farkı: 5.0
+
+Ürün: FasÃ¼lye (ÃalÄ±)
+Yüksek fiyat farkı: 13.0
+
+Ürün: FasÃ¼lye (Yer)
+Düşük fiyat farkı: -12.0
+
+Ürün: FasÃ¼lye (Yer)
+Yüksek fiyat farkı: -15.0
+
+Ürün: GÃ¶bek Salata
+Düşük fiyat farkı: -5.0
+
+Ürün: GÃ¶bek Salata
+Yüksek fiyat farkı: -8.0
+
+Ürün: GÃ¶bek Salata (2.Kalite)
+Düşük fiyat farkı: 20.0
+
+Ürün: GÃ¶bek Salata (2.Kalite)
+Yüksek fiyat farkı: 20.0
+
+Ürün: HavuÃ§ (BeypazarÄ±)
+Düşük fiyat farkı: 10.0
+
+Ürün: HavuÃ§ (BeypazarÄ±)
+Yüksek fiyat farkı: 15.0
+
+Ürün: HavuÃ§ (BeypazarÄ±)Ä°ri
+Düşük fiyat farkı: -80.0
+
+Ürün: HavuÃ§ (BeypazarÄ±)Ä°ri
+Yüksek fiyat farkı: -120.0
+
+Ürün: HavuÃ§ I.
+Düşük fiyat farkı: -10.0
+
+Ürün: HavuÃ§ I.
+Yüksek fiyat farkı: -25.0
+
+Ürün: Ispanak
+Düşük fiyat farkı: 70.0
+
+Ürün: Ispanak
+Yüksek fiyat farkı: 110.0
+
+Ürün: Ispanak II.
+Düşük fiyat farkı: -5.0
+
+Ürün: Ispanak II.
+Yüksek fiyat farkı: 5.0
+
+Ürün: Kabak (Bal)
+Düşük fiyat farkı: 10.0
+
+Ürün: Kabak (SakÄ±z)
+Düşük fiyat farkı: 15.0
+
+Ürün: Kabak (SakÄ±z)
+Yüksek fiyat farkı: 20.0
+
+Ürün: Kabak SakÄ±z(ikinci)
+Düşük fiyat farkı: 32.0
+
+Ürün: Kabak SakÄ±z(ikinci)
+Yüksek fiyat farkı: 53.0
+
+Ürün: Karnabahar
+Düşük fiyat farkı: 5.0
+
+Ürün: Karnabahar
+Yüksek fiyat farkı: 5.0
+
+Ürün: Kereviz
+Düşük fiyat farkı: 2.0
+
+Ürün: Kereviz
+Yüksek fiyat farkı: 4.0
+
+Ürün: KÄ±vÄ±rcÄ±k
+Düşük fiyat farkı: -3.0
+
+Ürün: KÄ±vÄ±rcÄ±k
+Yüksek fiyat farkı: -2.0
+
+Ürün: KÄ±vÄ±rcÄ±k KÄ±rmÄ±zÄ±(Lolorosso)
+Düşük fiyat farkı: -62.0
+
+Ürün: KÄ±vÄ±rcÄ±k KÄ±rmÄ±zÄ±(Lolorosso)
+Yüksek fiyat farkı: -90.0
