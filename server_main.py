@@ -2,13 +2,13 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 MESSAGES = {
-    "welcome": "\n-----       server-0.2       -----\n'''\nCreated Date: Saturday, April 15th 2023\nLast Update: April 17th 2024\nProgram Name: server_main.py\nAuthor: Murat Mirsad Dırağa\n\n            github.com/muratmirsad\n'''\n\n",
+    "welcome": "\n-----       server-0.2.1       -----\n'''\nCreated Date: Saturday, April 15th 2023\nLast Update: April 17th 2024\nProgram Name: server_main.py\nAuthor: Murat Mirsad Dırağa\n\n            github.com/muratmirsad\n'''\n\n",
     "file_created": "\n{}.csv created.\n",
     "file_comparison": "{} - {}\n\nFiyat değişimleri",
     "product_change": "\nÜrün: {}",
@@ -21,9 +21,16 @@ def display_message(message_key, *args):
     print(MESSAGES[message_key].format(*args))
 
 def get_data():
-    get_day = datetime.today()
-    day = get_day.strftime("%Y-%m-%d")
-    
+    today = datetime.today()
+    day = today.strftime("%Y-%m-%d")
+
+    previous_day = today - timedelta(days=1)
+    previous_day_str = previous_day.strftime("%Y-%m-%d")
+
+    if today.weekday() == 0:
+        previous_friday = today - timedelta(days=3)
+        previous_day_str = previous_friday.strftime("%Y-%m-%d")
+
     url_fruit = f"https://tarim.ibb.istanbul/inc/halfiyatlari/gunluk_fiyatlar.asp?tarih={day}&kategori=5&tUsr=M3yV353bZe&tPas=LA74sBcXERpdBaz&tVal=881f3dc3-7d08-40db-b45a-1275c0245685&HalTurId=2"
     url_vegetable = f"https://tarim.ibb.istanbul/inc/halfiyatlari/gunluk_fiyatlar.asp?tarih={day}&kategori=6&tUsr=M3yV353bZe&tPas=LA74sBcXERpdBaz&tVal=881f3dc3-7d08-40db-b45a-1275c0245685&HalTurId=2"
 
@@ -58,9 +65,15 @@ def get_data():
     display_message("file_created", day)
 
 def handle_data():
-    get_day = datetime.today()
-    day = get_day.strftime("%Y-%m-%d")
+    today = datetime.today()
+    day = today.strftime("%Y-%m-%d")
 
+    previous_day = today - timedelta(days=1)
+    previous_day_str = previous_day.strftime("%Y-%m-%d")
+    
+    if today.weekday() == 0:
+        previous_friday = today - timedelta(days=3)
+        previous_day_str = previous_friday.strftime("%Y-%m-%d")
 
     low_prices_1, high_prices_1, low_prices_2, high_prices_2 = [], [], [], []
     price_changes, products = [], []
@@ -69,7 +82,7 @@ def handle_data():
 
     for i in range(2):
         file_1 = day + array_tmp[i + 2] + ".csv"
-        file_2 = "2024-03-14" + array_tmp[i + 2] + ".csv" #"2024-3-13" + ".csv" #! YAPILMADI
+        file_2 = previous_day_str + array_tmp[i + 2] + ".csv"
     
         with open(array_tmp[i], "w") as f:
             f.write(MESSAGES["file_comparison"].format(file_1, file_2) + "\n")
