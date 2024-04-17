@@ -122,13 +122,13 @@ def send_email():
     server.starttls()
     server.login(sender_email, sender_password)
 
-    subject = "Fiyat Değişiklikleri"
-    array_tmp = ["fiyat_degisiklikleri_meyve.txt", "fiyat_degisiklikleri_sebze.txt"]
+    array_tmp = ["fiyat_degisiklikleri_meyve.txt", "fiyat_degisiklikleri_sebze.txt", "Meyvelerin Fiyat Degisimi", "Sebzelerin Fiyat Degisimi"]
 
     for i in range(2):
         with open(array_tmp[i], "r") as file:
             body = file.read()
 
+        subject = array_tmp[i + 2]
         message = MIMEMultipart()
         message["From"] = sender_email
         message["To"] = receiver_email
