@@ -7,8 +7,6 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-
-
 MESSAGES = {
     "welcome": "\n-----       server-0.2       -----\n'''\nCreated Date: Saturday, April 15th 2023\nLast Update: April 17th 2024\nProgram Name: server_main.py\nAuthor: Murat Mirsad Dırağa\n\n            github.com/muratmirsad\n'''\n\n",
     "file_created": "\n{}.csv created.\n",
